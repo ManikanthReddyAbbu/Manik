@@ -1,2 +1,2 @@
-# Manikanth
+# Manikanth Resume
 Personal
